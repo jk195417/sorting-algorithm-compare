@@ -1,4 +1,4 @@
-#做法
+# 做法
 建立一個新物件RandomInt 內有：
 - 建構子 RandomInt.new(number:亂數個數,range:亂數範圍)，產生整數亂數陣列。
 - methods :
